@@ -34,3 +34,4 @@ def validate_test_cases(config: dict):
         output_file = test_dir / f"{case_id}_output.txt"
         # Regenerate output from reference solution
         run_reference_solution(ref_sol, input_file, output_file)
+        # In a real scenario, you might compare output to expected values here

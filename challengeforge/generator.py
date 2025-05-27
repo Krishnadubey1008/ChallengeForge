@@ -1,5 +1,3 @@
-# challengeforge/generator.py
-
 import os
 import json
 import random
