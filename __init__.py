@@ -1,5 +1,3 @@
-```python
-
 """
 ChallengeForge: A toolkit for generating and packaging coding challenges.
 """
